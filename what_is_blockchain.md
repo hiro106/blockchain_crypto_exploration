@@ -1,4 +1,4 @@
-https://www.nttdata.com/jp/ja/services/blockchain/002/
+https://www.nttdata.com/jp/ja/services/blockchain/002/ より
 
 # ブロックチェーンの仕組み
 
