@@ -1,5 +1,5 @@
 ### Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
-https://github.com/hiro106?tab=repositories
+https://www.youtube.com/watch?v=M576WGiDBdQ
 
 Live-coding style video lecture. By freeCodeCamp.org.
 
