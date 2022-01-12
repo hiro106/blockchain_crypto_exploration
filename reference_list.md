@@ -30,9 +30,8 @@ Prerequisites: Participants should have some understanding of zero knowledge pro
 
 About the Presenter: Mirco Richter is a mathematician with an academic background. He has been working and conducting research in the Blockchain space since 2011 with a focus on Cryptography and Consensus Algorithms. He is involved in the cCoin movement and has authored the  accompanying paper: A (somewhat) easy pen & paper example of the Pinocchio protocol (Part 1).
 
+## What is Solana? SOL Explained with Animations
+https://www.youtube.com/watch?v=1jzROE6EhxM
 
-Many thanks to Electric Coin Co. for supporting this workshop!
-
-Electric Coin Company launched and supports the development of Zcash — a privacy-protecting, digital currency built on strong science. Since its launch in 2016, Zcash has quickly grown to be one of the most valued and admired cryptocurrencies in the world.
-
-Although we discovered the underlying scientific principles and designed the Zcash protocol, we do not control the currency, its mining or its distribution. Every user of Zcash contributes to its decentralization, helping to protect it against failure and corruption. Our team is one among many participants in the network.
+### Intro (from Youtube)
+Solana is a fast, cheap, and monstrous blockchain that’s popped up lately. In this video, we talk about some technical stuff of Solana, go over how it was founded, and then explain the tokenomics of the project. 
